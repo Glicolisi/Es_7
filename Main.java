@@ -71,9 +71,9 @@ public class Main {
         System.out.println("\nExercise 4:");
         String endNumbers = "7 8 9";
         String middleNumbers = "       4 5 6";
-        String earlyNumbers = "1 2 3";
+        String earlyNumbers = "1 2 3 ";
 
-        System.out.println(earlyNumbers+""+middleNumbers.trim()+""+endNumbers); // <--- Write your code here
+        System.out.println(earlyNumbers+middleNumbers.trim()+" "+endNumbers); // <--- Write your code here
     }
 
 
